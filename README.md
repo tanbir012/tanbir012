@@ -1,9 +1,36 @@
-# Hi there, I'm Tanbir 👋  
+<h1 align="center">Hey there! 👋 I'm Tanbir</h1>
 
-🚀 **Full-Stack Developer | AI & ML Enthusiast | MERN Stack | Deep Learning** 
+<p align="center">
+🚀 Full-Stack Developer | AI & ML Enthusiast | MERN Stack | Deep Learning
+</p>
 
-💡 Passionate about building scalable web apps and AI-driven solutions.  
-🔧 Skills: MERN Stack (MongoDB, Express.js, React, Node.js), Machine Learning (ML), Deep Learning (DL).  
-🌱 Currently exploring advanced AI architectures and cloud computing.  
-📫 How to reach me: tanbirsingh7305@gmail.com | 
-Let's connect and collaborate on exciting projects! 🚀  
+---
+
+### 👨‍💻 About Me  
+- 🔭 Currently working on **Deep Learning & Machine Learning**  
+- 🌱 Learning **NumPy, Pandas, Matplotlib, and more**  
+- 💬 Ask me about **ML, DL, and Web Development**  
+- 📫 Reach me at **tanbirsingh7305@gmail.com**  
+
+---
+
+### 🌎 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanbir--singh)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.tanbir69)  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** JavaScript, Python, Java  
+**Web Development:** React.js, Node.js, Express.js, MongoDB  
+**Machine Learning:** Scikit-learn, TensorFlow, OpenCV, Pandas, NumPy  
+**Tools & Platforms:** GitHub, VS Code, MySQL  
+
+---
+
+### ⚡ Fun Fact  
+💡 **"AI is not just about algorithms; it's about making life easier."**  
+
+---
+
+Would you like any further customization?
