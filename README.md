@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @tanbir012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm [Your Name] 👋  
 
-<!---
-tanbir012/tanbir012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full-Stack Developer | AI & ML Enthusiast | MERN Stack | Deep Learning**  
+
+💡 Passionate about building scalable web apps and AI-driven solutions.  
+🔧 Skills: MERN Stack (MongoDB, Express.js, React, Node.js), Machine Learning (ML), Deep Learning (DL).  
+🌱 Currently exploring advanced AI architectures and cloud computing.  
+📫 How to reach me: [Your Email] | [LinkedIn Profile]  
+
+Let's connect and collaborate on exciting projects! 🚀  
