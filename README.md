@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Tanbir</h1>
 
 <p align="center">
-🚀 Full-Stack Developer | AI & ML Enthusiast | MERN Stack | Deep Learning
+🚀 AI/ML ENGINEER |GEN AI| PYTHON DEVELOPER | Deep Learning
 </p>
 
 ---
@@ -21,8 +21,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-**Languages:** JavaScript, Python, Java  
-**Web Development:** React.js, Node.js, Express.js, MongoDB  
+**Languages:**  Python 
 **Machine Learning:** Scikit-learn, TensorFlow, OpenCV, Pandas, NumPy  
 **Tools & Platforms:** GitHub, VS Code, MySQL  
 
